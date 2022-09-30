@@ -15,5 +15,6 @@ public class HelloGit {
         System.out.println("在线更新");
         System.out.println("克隆下来的项目");
         System.out.println("更新2");
+        System.out.println("码云测试");
     }
 }
